@@ -1,5 +1,3 @@
-Aqui está um exemplo de um arquivo `README.md` para o seu projeto no GitHub, descrevendo a implementação das classes e interfaces que modelam um iPhone com funcionalidades de reprodutor musical, aparelho telefônico e navegador na internet:
-
 ```markdown
 # Projeto iPhone - Java Implementation
 
