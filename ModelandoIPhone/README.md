@@ -1,6 +1,6 @@
 # Projeto iPhone - Java Implementation
 
-![UML Diagram](./ModelandoIPhone/iPhone.png)
+![UML Diagram](./iPhone.png)
 
 Este projeto implementa a modelagem de um **iPhone** em Java, utilizando os conceitos de **herança** e **interfaces** para representar as funcionalidades de um reprodutor musical, aparelho telefônico e navegador de internet.
 
