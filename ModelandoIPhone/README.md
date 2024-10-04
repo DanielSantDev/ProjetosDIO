@@ -26,19 +26,19 @@ O projeto segue a seguinte estrutura:
 
 O seguinte diagrama UML ilustra as relações entre as classes e interfaces do projeto:
 
-![UML Diagram](link_para_o_diagrama)
+![UML Diagram](iPhone.png)
 
 ## Como Executar
 
 1. Clone o repositório:
    ```bash
    git clone rep
-   ```
+   `
 
 2. Compile os arquivos `.java`:
    ```bash
    javac Iphone.java
-   ```
+   ``
 
 3. Execute a classe `Iphone`:
    ```bash
