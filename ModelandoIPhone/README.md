@@ -1,5 +1,6 @@
-```markdown
 # Projeto iPhone - Java Implementation
+
+![UML Diagram](./ModelandoIPhone/iPhone.png)
 
 Este projeto implementa a modelagem de um **iPhone** em Java, utilizando os conceitos de **herança** e **interfaces** para representar as funcionalidades de um reprodutor musical, aparelho telefônico e navegador de internet.
 
@@ -26,10 +27,8 @@ O projeto segue a seguinte estrutura:
 
 O seguinte diagrama UML ilustra as relações entre as classes e interfaces do projeto:
 
-![UML Diagram](iPhone.png)
-
 ## Como Executar
-
+```markdown
 1. Clone o repositório:
    ```bash
    git clone rep
